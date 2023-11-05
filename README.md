@@ -3,7 +3,7 @@ Watchface for Watchy (SQFMI) - Steps
 
 Simple watchface which calculates the average of todays steps and the number of steps of the last 6 days.
 
-Pushing the right upper button switches the watchface for time to step overview.
+Pushing the right upper button switches the watchface from time to step overview and back.
 
 
 ![step1](https://github.com/MartMarq/steps/assets/139223739/4b9a880b-d276-4e1a-adae-abe0802dbbe6)
