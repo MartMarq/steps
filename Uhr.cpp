@@ -170,11 +170,8 @@ void Uhr::handleButtonPress() {
   }
 if (IS_BTN_RIGHT_DOWN) {
    }
-
-  Watchy::handleButtonPress();
-
 }
-
+ 
 void Uhr::vibrate() {
   
   sensor.enableFeature(BMA423_WAKEUP, false);
